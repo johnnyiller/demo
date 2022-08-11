@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.example
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-cdk, aws-lambda, aws-v2-sdk, config4k, dynamodb, github-workflow-ci, gradle, graphql, jackson-databind, kotest, kotlin, kotlin-build, logback, micronaut-build, readme, shade]
